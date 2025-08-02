@@ -7,7 +7,7 @@ Azure uses virtulization to provide on-demand, scalable computing resources. It 
 
 ## Virtual Machine
 
-A Virtual Machine (VM) is a software-based emulation of a physical computer. It allows running multiple operating systems on a single physical machine.
+A Virtual Machine (VM) in Azure is a software-based emulation of a physical computer. It runs an operating system and applications just like a  physical machine, but it exists in the cloud, running on microsoft's datacenters.
 
 ## API (Application Programming Interface)
 
