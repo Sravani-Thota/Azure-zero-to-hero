@@ -3,6 +3,7 @@
 ## Virtualization
 
 Virtualization is the process of creating a virtual version of something, such as an operating system, server, storage, or network resources.This allows multiple operating systems and applications to run on asingle physical machine by abstracting the hardware.
+Azure uses virtulization to provide on-demand, scalable computing resources. It does this primarily through virtual machines hosted on Hyper-V, Microsofts hypervisor technology.
 
 ## Virtual Machine
 
