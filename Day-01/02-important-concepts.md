@@ -2,7 +2,7 @@
 
 ## Virtualization
 
-Virtualization is the process of creating a virtual version of something, such as an operating system, server, storage, or network resources.
+Virtualization is the process of creating a virtual version of something, such as an operating system, server, storage, or network resources.This allows multiple operating systems and applications to run on asingle physical machine by abstracting the hardware.
 
 ## Virtual Machine
 
