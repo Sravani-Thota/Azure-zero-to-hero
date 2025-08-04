@@ -5,6 +5,7 @@ Azure resources are the building blocks of your cloud infrastructure in Microsof
 ## Resource Groups in Azure
 
 A **Resource Group** in Azure is a logical container for resources that share the same lifecycle, permissions, and policies. It helps you organize and manage related Azure resources efficiently. Resources within a group can be deployed, updated, and deleted together as a single management unit.
+
 Example: You might have a resource group called WebAppRG that contains a web app, database, and storage account—all related to a single project.
 
 ### Key Points about Resource Groups:
@@ -30,6 +31,7 @@ Example: You might have a resource group called WebAppRG that contains a web app
 - **Tagging and Categorization:** You can use tags to label and categorize resources, making it easier to manage and organize your Azure environment.
 
 **Note:** Understanding Azure resources, resource groups, and Azure Resource Manager is fundamental to effectively utilize and manage your resources in the Azure cloud.
+
 How They Work Together:
 You use Azure Resource Manager to manage resources.
 Resources are grouped into Resource Groups for better organization and control.
